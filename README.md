@@ -110,21 +110,7 @@ Customer segmentation
 
 Interactive charts and KPI cards
 
-Project Structure
 
-Credit-Card-Analysis-PowerBI/
-│
-├── Dashboard
-│   └── Credit_Card_Analysis.pbix
-│
-├── Screenshots
-│   ├── Transaction_Dashboard.png
-│   └── Customer_Dashboard.png
-│
-├── Dataset
-│   └── (Dataset, if permitted to share)
-│
-└── README.md
 
 How to Use
 
