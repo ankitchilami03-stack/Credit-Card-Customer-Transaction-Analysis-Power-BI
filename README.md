@@ -114,14 +114,14 @@ Project Structure
 
 Credit-Card-Analysis-PowerBI/
 │
-├── Dashboard/
+├── Dashboard
 │   └── Credit_Card_Analysis.pbix
 │
-├── Screenshots/
+├── Screenshots
 │   ├── Transaction_Dashboard.png
 │   └── Customer_Dashboard.png
 │
-├── Dataset/
+├── Dataset
 │   └── (Dataset, if permitted to share)
 │
 └── README.md
